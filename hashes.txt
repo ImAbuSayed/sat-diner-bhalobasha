@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Sat Diner Bhalobasha
+
+This log tracks the cryptographic history and versioning for the song **Sat Diner Bhalobasha** (sat-diner-bhalobasha).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-16T07:57:14.588100 | `v1` | `05442e0b7abdfeb4eeef2ab2b8c1599dc245457b2c38940e43808f8e511b8900` | `67e538baa2eb7681033bc506e34ab5d1aadfc2019209276c7f9974a9a34dce0b` | `2026-05-16_sat-diner-bhalobasha-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

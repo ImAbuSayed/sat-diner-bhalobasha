@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sat-diner-bhalobasha/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Sat Diner Bhalobasha](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sat-diner-bhalobasha/) |
+| **Get License** | [Get a Licensing Quote for Sat Diner Bhalobasha](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sat-diner-bhalobasha/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `05442e0b7abdfeb4eeef2ab2b8c1599dc245457b2c38940e43808f8e511b8900` |
 | **Timestamp** | May 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
