@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sat-diner-bhalobasha/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Sat Diner Bhalobasha](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sat-diner-bhalobasha/) |
+| **Get License** | [Music Rights & Licensing for Sat Diner Bhalobasha](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sat-diner-bhalobasha/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> তোমার ভেজা ঠোঁটের ছোঁয়ায় জ্বলে ওঠে আগুন
+> আমার শিরায় শিরায় জাগে পাগল করা ফাগুন
+> তোমার ওই চোখের তারায় আমি হারাই দিশা
+> বুকে আমার জেগে ওঠে তীব্র এক তৃষা
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
